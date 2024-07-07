@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 
 @st.cache(allow_output_mutation=True)
 def clustering(x, y):
-    df = pd.read_csv("https://raw.githubusercontent.com/asaikiran1999/diagnostic-center-agents-sheduling/main/final_data.csv")
+    df = pd.read_csv("https://raw.githubusercontent.com/asaikiran1999/asaikiran1999/Diagnostic_Agents_Scheduler/main/Sampledata.csv")
     df = df.drop(df.columns[[0, 2, 3, 6, 7, 9, 10, 12, 22, 23, 24, 25]], axis=1)
     df_filtered = df[df['Sample Collection Date'] == x].copy()
 
