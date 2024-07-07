@@ -1,0 +1,5 @@
+Flask==2.0.1
+flask-cors==3.1.1
+scikit-learn==1.0
+pandas==1.4.0
+streamlit==1.1.0
