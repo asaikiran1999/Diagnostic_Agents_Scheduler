@@ -1,0 +1,100 @@
+,Patient ID,patient location,Latitudes and Longitudes (Patient),Diagnostic Centers,shortest distance Patient-Pathlab(m),Availabilty time (Patient),Age,Gender,Test Booking Date,Test Booking Time HH:MM,Test name,Sample,Way Of Storage Of Sample,Sample Collection Date
+0,MD1001,Serilingampalle (M),"17.480944, 78.321500",Medquest Diagnostics Center,2840,09:00 to 10:00,37,Female,01-01-2022 0:00,12:04:00,Vitamin B-12,Blood,Vaccum blood collection tube,02-01-2022 0:00
+1,MD1002,Serilingampalle (M),"17.482750, 78.340586",Medquest Diagnostics Center,1378,19:00 to 20:00,29,Male,02-01-2022 0:00,11:12:00,HbA1c,Blood,Vaccum blood collection tube,03-01-2022 0:00
+2,MD1003,Ramachandrapuram,"17.518403, 78.310165",Medquest Diagnostics Center,4458,14:00 to 15:00,33,Male,03-01-2022 0:00,12:24:00,CBC,Blood,Vaccum blood collection tube,04-01-2022 0:00
+3,MD1004,Miyapur,"17.511200, 78.357393",Medquest Diagnostics Center,2316,21:00 to 22:00,62,Female,04-01-2022 0:00,13:38:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,05-01-2022 0:00
+4,MD1005,Nizampet,"17.503342, 78.384344",Medquest Diagnostics Center,4377,13:00 to 14:00,80,Male,05-01-2022 0:00,16:01:00,TSH,Blood,Vaccum blood collection tube,06-01-2022 0:00
+5,VD1001,Gachibowli,"17.432112, 78.332898",Vijaya Diagnostic Center,5301,07:00 to 08:00,67,Male,06-01-2022 0:00,15:21:00,Lipid Profile,Blood,Vaccum blood collection tube,07-01-2022 0:00
+6,VD1002,Chanda Nagar,"17.495597, 78.333241",Vijaya Diagnostic Center,6268,20:00 to 21:00,47,Male,07-01-2022 0:00,13:01:00,Complete Urinalysis,Urine,Urine culture transport tube,08-01-2022 0:00
+7,VD1003,Gachibowli,"17.428094, 78.366178",Vijaya Diagnostic Center,3321,16:00 to 17:00,27,Female,08-01-2022 0:00,10:15:00,H1N1,Swab,Disposable plastic container,09-01-2022 0:00
+8,VD1004,Chanda Naik Nagar,"17.444274, 78.390902",Vijaya Diagnostic Center,2099,06:00 to 07:00,94,Female,09-01-2022 0:00,16:01:00,RTPCR,Swab,Disposable plastic container,10-01-2022 0:00
+9,VD1005,Jeedimetla,"17.512880, 78.445936",Vijaya Diagnostic Center,9724,20:00 to 21:00,18,Male,10-01-2022 0:00,13:01:00,Fasting blood sugar,Blood,Vaccum blood collection tube,11-01-2022 0:00
+10,AD1001,Chenna Reddy Nagar,"17.490436, 78.434706",Apollo Diagnostics,8161,15:00 to 16:00,83,Female,11-01-2022 0:00,13:01:00,CBC,Blood,Vaccum blood collection tube,12-01-2022 0:00
+11,AD1002,Kukatpally,"17.486966, 78.405564",Apollo Diagnostics,5490,21:00 to 22:00,87,Male,12-01-2022 0:00,13:01:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,13-01-2022 00:00
+12,AD1003,Jagathgiri Gutta,"17.503003, 78.423611",Apollo Diagnostics,8104,11:00 to 12:00,15,Female,13-01-2022 00:00,13:15:00,TSH,Blood,Vaccum blood collection tube,14-01-2022 00:00
+13,AD1004,Kukatpally,"17.489419, 78.422729",Apollo Diagnostics,7046,10:00 to 11:00,34,Male,14-01-2022 00:00,10:02:00,Lipid Profile,Blood,Vaccum blood collection tube,15-01-2022 00:00
+14,AD1005,Rodamestri Nagar,"17.509699, 78.429905",Apollo Diagnostics,9103,19:00 to 20:00,31,Male,15-01-2022 00:00,14:02:00,Complete Urinalysis,Urine,Urine culture transport tube,16-01-2022 00:00
+15,LMD1001,Kukatpally,"17.491644, 78.379789",Lucid Medical Diagnostics,9212,17:00 to 18:00,44,Female,16-01-2022 00:00,15:01:00,H1N1,Swab,Disposable plastic container,17-01-2022 00:00
+16,LMD1002,Nadigada Tanda,"17.503934, 78.372786",Lucid Medical Diagnostics,10760,08:00 to 09:00,81,Female,17-01-2022 00:00,12:04:00,RTPCR,Swab,Disposable plastic container,18-01-2022 00:00
+17,LMD1003,Kukatpally,"17.507765, 78.397362",Lucid Medical Diagnostics,9967,12:00 to 13:00,23,Male,18-01-2022 00:00,12:04:00,Fasting blood sugar,Blood,Vaccum blood collection tube,19-01-2022 00:00
+18,LMD1004,Kukatpally,"17.484955, 78.384426",Lucid Medical Diagnostics,8321,20:00 to 21:00,38,Female,19-01-2022 00:00,10:03:00,TSH,Blood,Vaccum blood collection tube,20-01-2022 00:00
+19,LMD1005,Nizampet,"17.510217, 78.379608",Lucid Medical Diagnostics,10986,14:00 to 15:00,90,Male,20-01-2022 00:00,11,Lipid Profile,Blood,Vaccum blood collection tube,21-01-2022 00:00
+20,VV1001,Moti Nagar,"17.451201, 78.414379",Vivaa Diagnostic Center,2145,21:00 to 22:00,58,Female,21-01-2022 00:00,11,Complete Urinalysis,Urine,Urine culture transport tube,22-01-2022 00:00
+21,VV1002,Jubilee Hills,"17.419814, 78.401699",Vivaa Diagnostic Center,2054,13:00 to 14:00,5,Male,22-01-2022 00:00,13,H1N1,Swab,Disposable plastic container,23-01-2022 00:00
+22,VV1003,Gachibowli,"17.441568, 78.365276",Vivaa Diagnostic Center,3646,07:00 to 08:00,21,Male,23-01-2022 00:00,14:03:00,RTPCR,Swab,Disposable plastic container,24-01-2022 00:00
+23,VV1004,Kukatpally,"17.493186, 78.396134",Vivaa Diagnostic Center,6128,20:00 to 21:00,29,Female,24-01-2022 00:00,16:03:00,Fasting blood sugar,Blood,Vaccum blood collection tube,25-01-2022 00:00
+24,VV1005,Kondapur,"17.472041, 78.360377",Vivaa Diagnostic Center,5601,16:00 to 17:00,35,Male,25-01-2022 00:00,18:05:00,CBC,Blood,Vaccum blood collection tube,26-01-2022 00:00
+25,MFD1001,Hafeezpet,"17.484534, 78.374183",Medifine Diagnostic Center,1710,06:00 to 07:00,89,Female,26-01-2022 00:00,21:35:00,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,27-01-2022 00:00
+26,MFD1002,Vasantha Nagar,"17.500782, 78.385939",Medifine Diagnostic Center,1614,20:00 to 21:00,26,Female,27-01-2022 00:00,21:45:00,TSH,Blood,Vaccum blood collection tube,28-01-2022 00:00
+27,MFD1003,Kukatpally,"17.476504, 78.392143",Medifine Diagnostic Center,1167,15:00 to 16:00,64,Female,28-01-2022 00:00,22:05:00,Lipid Profile,Blood,Vaccum blood collection tube,29-01-2022 00:00
+28,MFD1004,Kukatpally,"17.503852, 78.396257",Medifine Diagnostic Center,2001,16:00 to 17:00,13,Male,29-01-2022 00:00,11:02:00,Complete Urinalysis,Urine,Urine culture transport tube,30-01-2022 00:00
+29,MFD1005,Kukatpally,"17.493783, 78.399223",Medifine Diagnostic Center,1236,21:00 to 22:00,51,Male,30-01-2022 00:00,9:01:00,CBC,Blood,Vaccum blood collection tube,31-01-2022 00:00
+30,DD1001,Lakshmiguda,"17.303633, 78.441516",Diamond Diagnostic Center,16057,10:00 to 11:00,74,Female,31-01-2022 00:00,12:03:00,Vitamin B-12,Blood,Vaccum blood collection tube,02-01-2022 0:00
+31,DD1002,Pocharam,"17.194173, 78.599106",Diamond Diagnostic Center,28682,19:00 to 20:00,30,Female,01-02-2022 0:00,13:05:00,TSH,Blood,Vaccum blood collection tube,03-01-2022 0:00
+32,DD1003,Madannapet Colony,"17.360764, 78.496308",Diamond Diagnostic Center,8333,17:00 to 18:00,79,Male,02-02-2022 0:00,18:47:00,Lipid Profile,Blood,Vaccum blood collection tube,04-01-2022 0:00
+33,DD1004,Nawab Saheb Kunta,"17.337931, 78.457657",Diamond Diagnostic Center,11876,08:00 to 09:00,35,Male,03-02-2022 0:00,20:15:00,Complete Urinalysis,Urine,Urine culture transport tube,05-01-2022 0:00
+34,DD1005,Hafeezpet,"17.486688, 78.375804",Diamond Diagnostic Center,14688,20:00 to 21:00,65,Female,04-02-2022 0:00,21:01:00,H1N1,Swab,Disposable plastic container,06-01-2022 0:00
+35,TS1001,Patancheruvu,"17.537814, 78.260945",Tesla Diagnostics,8257,13:00 to 14:00,7,Female,05-02-2022 0:00,10,RTPCR,Swab,Disposable plastic container,07-01-2022 0:00
+36,TS1002,Kukatpally,"17.496490, 78.386204",Tesla Diagnostics,6583,09:00 to 10:00,6,Male,06-02-2022 0:00,11,Fasting blood sugar,Blood,Vaccum blood collection tube,08-01-2022 0:00
+37,TS1003,Kukatpally,"17.483827, 78.422345",Tesla Diagnostics,10479,19:00 to 20:00,63,Female,07-02-2022 0:00,9,CBC,Blood,Vaccum blood collection tube,09-01-2022 0:00
+38,TS1004,Gachibowli,"17.435295, 78.342141",Tesla Diagnostics,6849,14:00 to 15:00,84,Female,08-02-2022 0:00,8,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,10-01-2022 0:00
+39,TS1005,Madhapur,"17.440270, 78.394462",Tesla Diagnostics,9586,21:00 to 22:00,39,Male,09-02-2022 0:00,10,TSH,Blood,Vaccum blood collection tube,11-01-2022 0:00
+40,PDC1001,Kothaguda,"17.464817, 78.368936",Pronto Diagnostics Center,4745,13:00 to 14:00,28,Male,10-02-2022 0:00,11,Lipid Profile,Blood,Vaccum blood collection tube,12-01-2022 0:00
+41,PDC1002,Gachibowli,"17.435176, 78.329110",Pronto Diagnostics Center,5591,07:00 to 08:00,9,Female,11-02-2022 0:00,11,Complete Urinalysis,Urine,Urine culture transport tube,13-01-2022 00:00
+42,PDC1003,Narsingi,"17.389277, 78.364263",Pronto Diagnostics Center,4179,20:00 to 21:00,49,Male,12-02-2022 0:00,7,H1N1,Swab,Disposable plastic container,14-01-2022 00:00
+43,PDC1004,Vattinagulapalle,"17.420735, 78.291050",Pronto Diagnostics Center,9483,16:00 to 17:00,61,Male,13-02-2022 00:00,12,RTPCR,Swab,Disposable plastic container,15-01-2022 00:00
+44,PDC1005,ATTAPUR,"17.363613, 78.421703",Pronto Diagnostics Center,7978,06:00 to 07:00,77,Female,14-02-2022 00:00,11,Fasting blood sugar,Blood,Vaccum blood collection tube,16-01-2022 00:00
+45,SSD1001,Adarsh Nagar,"17.401748, 78.472296",Sri Sai Diagnostic Center,1917,20:00 to 21:00,46,Female,15-02-2022 00:00,10,TSH,Blood,Vaccum blood collection tube,17-01-2022 00:00
+46,SSD1002,Himayatnagar,"17.408464, 78.477575",Sri Sai Diagnostic Center,2305,19:00 to 20:00,92,Female,16-02-2022 00:00,8,Lipid Profile,Blood,Vaccum blood collection tube,18-01-2022 00:00
+47,SSD1003,Ameerpet,"17.438174, 78.441518",Sri Sai Diagnostic Center,3593,14:00 to 15:00,8,Female,17-02-2022 00:00,10,Complete Urinalysis,Urine,Urine culture transport tube,19-01-2022 00:00
+48,SSD1004,Masab Tank,"17.397325, 78.453671",Sri Sai Diagnostic Center,1307,19:00 to 20:00,72,Male,18-02-2022 00:00,7,H1N1,Swab,Disposable plastic container,20-01-2022 00:00
+49,SSD1005,Amberpet,"17.386596, 78.507058",Sri Sai Diagnostic Center,5972,10:00 to 11:00,78,Male,19-02-2022 00:00,7,RTPCR,Swab,Disposable plastic container,21-01-2022 00:00
+50,MD1006,Mythri Nagar,"17.485941, 78.421714",Medquest Diagnostics Center,8291,19:00 to 20:00,67,Female,20-02-2022 00:00,11,Fasting blood sugar,Blood,Vaccum blood collection tube,22-01-2022 00:00
+51,MD1007,Miyapur,"17.505587, 78.354079",Medquest Diagnostics Center,1610,20:00 to 21:00,17,Female,21-02-2022 00:00,11,CBC,Blood,Vaccum blood collection tube,23-01-2022 00:00
+52,MD1008,Bachupally Rd,"17.537999, 78.410384",Medquest Diagnostics Center,8522,08:00 to 09:00,27,Female,22-02-2022 00:00,12,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,24-01-2022 00:00
+53,MD1009,Film Nagar,"17.419455, 78.404891",Medquest Diagnostics Center,10564,12:00 to 13:00,48,Female,23-02-2022 00:00,11,TSH,Blood,Vaccum blood collection tube,25-01-2022 00:00
+54,MD1010,Hafeezpet,"17.478082, 78.370215",Medquest Diagnostics Center,3331,20:00 to 21:00,24,Male,24-02-2022 00:00,12:03:00,Vitamin B-12,Blood,Vaccum blood collection tube,26-01-2022 00:00
+55,VD1006,New Hafeezpet,"17.477807, 78.366124",Vijaya Diagnostic Center,2582,14:00 to 15:00,38,Female,25-02-2022 00:00,12:04:00,Complete Urinalysis,Urine,Urine culture transport tube,27-01-2022 00:00
+56,VD1007,Weaker Section Colony,"17.464062, 78.382110",Vijaya Diagnostic Center,1071,19:00 to 20:00,69,Male,26-02-2022 00:00,9,TSH,Blood,Vaccum blood collection tube,28-01-2022 00:00
+57,VD1008,Cyprus Palms Rd,"17.477862, 78.366558",Vijaya Diagnostic Center,2569,19:00 to 20:00,36,Female,27-02-2022 00:00,15:03:00,Lipid Profile,Blood,Vaccum blood collection tube,29-01-2022 00:00
+58,VD1009,Casa Rouge D-Block,"17.462552, 78.369992",Vijaya Diagnostic Center,913,07:00 to 08:00,32,Male,28-02-2022 00:00,16:05:00,Complete Urinalysis,Urine,Urine culture transport tube,30-01-2022 00:00
+59,VD1010,Hafeezpet,"17.477616, 78.371279",Vijaya Diagnostic Center,2395,20:00 to 21:00,77,Male,01-03-2022 0:00,9,H1N1,Swab,Disposable plastic container,31-01-2022 00:00
+60,AD1006,Gopalnagar Society,"17.485812, 78.374218",Apollo Diagnostics,3833,16:00 to 17:00,79,Female,02-03-2022 0:00,10,RTPCR,Swab,Disposable plastic container,02-01-2022 0:00
+61,AD1007,Vasanth Nagar,"17.494571, 78.384518",Apollo Diagnostics,5035,06:00 to 07:00,37,Female,03-03-2022 0:00,17:05:00,Fasting blood sugar,Blood,Vaccum blood collection tube,03-01-2022 0:00
+62,AD1008,CBCID Colony Main Rd,"17.497109, 78.380484",Apollo Diagnostics,5190,20:00 to 21:00,44,Male,04-03-2022 0:00,18,CBC,Blood,Vaccum blood collection tube,04-01-2022 0:00
+63,AD1009,Gachibowli,"17.457812, 78.364348",Apollo Diagnostics,869,15:00 to 16:00,55,Male,05-03-2022 0:00,11,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,05-01-2022 0:00
+64,AD1010,Mythri Nagar,"17.492934, 78.345465",Apollo Diagnostics,5245,18:00 to 19:00,42,Female,06-03-2022 0:00,13,TSH,Blood,Vaccum blood collection tube,06-01-2022 0:00
+65,LMD1006,Shanti Nagar Colony,"17.499656, 78.343598",Lucid Medical Diagnostics,12408,19:00 to 20:00,29,Male,07-03-2022 0:00,14,Lipid Profile,Blood,Vaccum blood collection tube,07-01-2022 0:00
+66,LMD1007,Chanda Nagar Colony,"17.501375, 78.325144",Lucid Medical Diagnostics,14019,10:00 to 11:00,47,Male,08-03-2022 0:00,7,Complete Urinalysis,Urine,Urine culture transport tube,08-01-2022 0:00
+67,LMD1008,Narne Estates,"17.485739, 78.340679",Lucid Medical Diagnostics,11654,19:00 to 20:00,82,Male,09-03-2022 0:00,8,H1N1,Swab,Disposable plastic container,09-01-2022 0:00
+68,LMD1009,Raghavendra Colony,"17.467892, 78.362995",Lucid Medical Diagnostics,8573,17:00 to 18:00,40,Female,10-03-2022 0:00,20,RTPCR,Swab,Disposable plastic container,10-01-2022 0:00
+69,LMD1010,Shilpa Avenue Colony,"17.485739, 78.369261",Lucid Medical Diagnostics,9393,08:00 to 09:00,52,Male,11-03-2022 0:00,10,Fasting blood sugar,Blood,Vaccum blood collection tube,11-01-2022 0:00
+70,VV1006,Guttala_Begumpet,"17.444652, 78.403995",Vivaa Diagnostic Center,866,21:00 to 22:00,35,Female,12-03-2022 0:00,12,TSH,Blood,Vaccum blood collection tube,12-01-2022 0:00
+71,VV1007,Parvathi Nagar,"17.452226, 78.395755",Vivaa Diagnostic Center,1612,14:00 to 15:00,86,Female,13-03-2022 00:00,21,Lipid Profile,Blood,Vaccum blood collection tube,13-01-2022 00:00
+72,VV1008,Banjar Nagar,"17.455174, 78.413908",Vivaa Diagnostic Center,2433,09:00 to 10:00,43,Male,14-03-2022 00:00,6,Complete Urinalysis,Urine,Urine culture transport tube,14-01-2022 00:00
+73,VV1009,Venkatagiri,"17.440108, 78.408115",Vivaa Diagnostic Center,942,19:00 to 20:00,56,Female,15-03-2022 00:00,16,H1N1,Swab,Disposable plastic container,15-01-2022 00:00
+74,VV1010,Madhapur,"17.444489, 78.389833",Vivaa Diagnostic Center,1240,19:00 to 20:00,66,Female,16-03-2022 00:00,9,RTPCR,Swab,Disposable plastic container,16-01-2022 00:00
+75,MFD1006,Kukatpally,"17.490738, 78.390323",Medifine Diagnostic Center,435,11:00 to 12:00,19,Female,17-03-2022 00:00,12,Fasting blood sugar,Blood,Vaccum blood collection tube,17-01-2022 00:00
+76,MFD1007,Kukatpally,"17.486350, 78.392120",Medifine Diagnostic Center,217,19:00 to 20:00,85,Male,18-03-2022 00:00,15,CBC,Blood,Vaccum blood collection tube,18-01-2022 00:00
+77,MFD1008,Kukatpally,"17.488724, 78.396315",Medifine Diagnostic Center,689,07:00 to 08:00,26,Female,19-03-2022 00:00,22,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,19-01-2022 00:00
+78,MFD1009,Kukatpally,"17.485040, 78.386884",Medifine Diagnostic Center,397,20:00 to 21:00,62,Female,20-03-2022 00:00,20,TSH,Blood,Vaccum blood collection tube,20-01-2022 00:00
+79,MFD1010,Jai Bharat Nagar,"17.500106, 78.388934",Medifine Diagnostic Center,1482,19:00 to 20:00,57,Male,21-03-2022 00:00,13,Vitamin B-12,Blood,Vaccum blood collection tube,21-01-2022 00:00
+80,DD1006,Thirmulgherry,"17.482653, 78.518857",Diamond Diagnostic Center,5502,09:00 to 10:00,72,Female,22-03-2022 00:00,22,Complete Urinalysis,Urine,Urine culture transport tube,22-01-2022 00:00
+81,DD1007,Dabeerpura,"17.361779, 78.487614",Diamond Diagnostic Center,8356,20:00 to 21:00,88,Female,23-03-2022 00:00,17,CBC,Blood,Vaccum blood collection tube,23-01-2022 00:00
+82,DD1008,Serilingampalle (M),"17.481998, 78.348569",Diamond Diagnostic Center,17223,21:00 to 22:00,73,Male,24-03-2022 00:00,23,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,24-01-2022 00:00
+83,DD1009,Nawab Saheb Kunta,"17.338184, 78.457059",Diamond Diagnostic Center,11877,17:00 to 18:00,58,Female,25-03-2022 00:00,13,TSH,Blood,Vaccum blood collection tube,25-01-2022 00:00
+84,DD1010,Secunderabad,"17.535367, 78.605374",Diamond Diagnostic Center,15506,11:00 to 12:00,46,Male,26-03-2022 00:00,19,Lipid Profile,Blood,Vaccum blood collection tube,26-01-2022 00:00
+85,TS1006,Chanda Nagar,"17.493743, 78.318503",Tesla Diagnostics,605,20:00 to 21:00,61,Male,27-03-2022 00:00,12:04:00,Complete Urinalysis,Urine,Urine culture transport tube,27-01-2022 00:00
+86,TS1007,Rajiv Nagar,"17.492638, 78.323588",Tesla Diagnostics,211,13:00 to 14:00,70,Female,28-03-2022 00:00,13:35:00,H1N1,Swab,Disposable plastic container,28-01-2022 00:00
+87,TS1008,Ramachandrapuram,"17.515965, 78.304872",Tesla Diagnostics,3147,21:00 to 22:00,50,Male,29-03-2022 00:00,10:03:00,RTPCR,Swab,Disposable plastic container,29-01-2022 00:00
+88,TS1009,Ramachandrapuram,"17.508353, 78.313799",Tesla Diagnostics,1896,08:00 to 09:00,28,Male,30-03-2022 00:00,11,Fasting blood sugar,Blood,Vaccum blood collection tube,30-01-2022 00:00
+89,TS1010,Chanda Nagar,"17.489598, 78.334012",Tesla Diagnostics,1175,12:00 to 13:00,11,Female,31-03-2022 00:00,11,CBC,Blood,Vaccum blood collection tube,31-01-2022 00:00
+90,PDC1006,Gachibowli,"17.421375, 78.377346",Pronto Diagnostics Center,404,20:00 to 21:00,80,Male,01-04-2022 0:00,13,Vitamin D-25Hydroxy,Blood,Vaccum blood collection tube,02-01-2022 0:00
+91,PDC1007,Manikonda Jagir,"17.421293, 78.382893",Pronto Diagnostics Center,366,14:00 to 15:00,13,Male,02-04-2022 0:00,14:03:00,TSH,Blood,Vaccum blood collection tube,03-01-2022 0:00
+92,PDC1008,Gachibowli,"17.421375, 78.377807",Pronto Diagnostics Center,366,18:00 to 19:00,54,Female,03-04-2022 0:00,16:03:00,Lipid Profile,Blood,Vaccum blood collection tube,04-01-2022 0:00
+93,PDC1009,Manikonda Jagir,"17.419532, 78.382528",Pronto Diagnostics Center,502,19:00 to 20:00,39,Male,04-04-2022 0:00,18:05:00,Complete Urinalysis,Urine,Urine culture transport tube,05-01-2022 0:00
+94,PDC1010,Manikonda Jagir,"17.420167, 78.381058",Pronto Diagnostics Center,384,07:00 to 08:00,14,Female,05-04-2022 0:00,21:35:00,H1N1,Swab,Disposable plastic container,06-01-2022 0:00
+95,SSD1006,Balanagar,"17.474216, 78.458498",Sri Sai Diagnostic Center,7268,20:00 to 21:00,49,Female,06-04-2022 0:00,21:45:00,RTPCR,Swab,Disposable plastic container,07-01-2022 0:00
+96,SSD1007,Jubilee Hills,"17.447688, 78.409059",Sri Sai Diagnostic Center,6576,16:00 to 17:00,30,Female,07-04-2022 0:00,22:05:00,Fasting blood sugar,Blood,Vaccum blood collection tube,08-01-2022 0:00
+97,SSD1008,Murad Nagar,"17.385939, 78.444937",Sri Sai Diagnostic Center,2803,06:00 to 07:00,53,Male,08-04-2022 0:00,9:25:00,Vitamin B-12,Blood,Vaccum blood collection tube,09-01-2022 0:00
+98,SSD1009,Hussainshawali,"17.410347, 78.389833",Sri Sai Diagnostic Center,7006,20:00 to 21:00,15,Male,09-04-2022 0:00,11:02:00,Lipid Profile,Blood,Vaccum blood collection tube,10-01-2022 0:00
